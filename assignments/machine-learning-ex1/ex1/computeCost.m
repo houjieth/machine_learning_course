@@ -13,10 +13,10 @@ J = 0;
 % Instructions: Compute the cost of a particular choice of theta
 %               You should set J to the cost.
 
+m = rows(X)
 
-
-
-
+% X = [1 x1; 1 x2; 1 x3], theta = [theta0; theta1], y = [y1; y2; y3]
+% h_theta = X * theta
 % =========================================================================
 
 end
